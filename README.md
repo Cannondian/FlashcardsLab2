@@ -7,6 +7,7 @@ An app that allows you to create a flash card by pressing the '+' button
 ### App Walk-through
 
 ![](https://i.imgur.com/0rbKRwN.gif)
+![](https://i.imgur.com/W1gzITm.gif)
 
 ## Required
 - [x] User can open the creation screen
