@@ -1,4 +1,22 @@
-# FlashcardsLab2
+## Lab 3
+
+### App Description
+`TODO://` Flashcard app that allows you to add new flashcards that persist even after the app closes.
+
+### App Walk-though
+
+![](https://i.imgur.com/ck2x88i.gif)
+![](https://i.imgur.com/z1e3Hh8.gif)
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
 ## Lab 2
 
 ### App Description
